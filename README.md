@@ -8,10 +8,13 @@ Stockholm University (2014–2017)
 University studies (education/pedagogy track).
 
 ## Work Experiance ##  
-Preschool Teacher – Skogsbyns Friförskola (2022–present)
-Planned and delivered project-based learning; close collaboration in small teams.
-
-Preschool Teacher – Gubbängens Förskolor (2017–2022)
+Skogsbyns Friförskola (2022–present)
+Preschool teacher
+Planned and delivered project-based learning; 
+close collaboration in small teams as a informal team-leader
+ 
+Gubbängens Förskolor (2017–2022)
+Preschool Teacher
 Led group activities, documentation, and continuous improvement with colleagues.
 
 ## Technical Skills ##
