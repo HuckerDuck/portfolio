@@ -2,10 +2,11 @@
 
 ## Education ## 
 STI – Stockholms Tekniska Institut (2024–2026)
-Java programming, OOP, REST APIs, SQL/relational databases, Git, and agile methods.
+Java programer program 
+
 
 Stockholm University (2014–2017)
-University studies (education/pedagogy track).
+B.A. in Early Childhood Education (Pre-school Teacher)
 
 ## Work Experiance ##  
 Skogsbyns Friförskola (2022–present)
