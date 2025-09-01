@@ -1,4 +1,6 @@
-# Backend-leaning Full-Stack Java Developer (Student)
+# Backend-leaning 
+# Full-Stack Java Developer 
+# (Student)
 
 ## Education ## 
 STI – Stockholms Tekniska Institut (2024–2026)
